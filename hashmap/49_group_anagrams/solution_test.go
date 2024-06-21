@@ -8,7 +8,6 @@ func Test_groupAnagrams(t *testing.T) {
 		if len(result) != 3 {
 			t.Fatalf("result should have length 3, got %d", len(result))
 		}
-		// TODO
 		t.Log(result)
 	})
 
