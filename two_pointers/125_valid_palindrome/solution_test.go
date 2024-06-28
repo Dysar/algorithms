@@ -1,4 +1,4 @@
-package two_pointers
+package _25_valid_palindrome
 
 import "testing"
 
