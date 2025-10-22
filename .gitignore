@@ -22,3 +22,15 @@ go.work
 go.work.sum
 
 .idea
+
+# Python caches and venvs
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.cache/
+.venv/
+.env/
